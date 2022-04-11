@@ -1,0 +1,18 @@
+
+    li{
+        display: inline-block;
+        margin: 20px;
+}
+
+section{
+    height: 300px;
+    padding-top: 50px;
+}
+
+header{
+    position: fixed;
+}
+
+main:{
+    margin-top: auto 
+}
